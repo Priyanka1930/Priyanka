@@ -1,2 +1,3 @@
 # Priyanka
-This is my frist github repository
+This is my first github repository
+Author- Priyanka
